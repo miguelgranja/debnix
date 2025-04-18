@@ -38,7 +38,7 @@ nix-env -iA nixgl.auto.nixGLDefault
 
 Clone down this repo:
 ```bash
-git clone https://github.com/RoastBeefer00/nix-home.git
+git clone https://github.com/miguelgranja/nix-home.git
 cd nix-home
 ```
 
