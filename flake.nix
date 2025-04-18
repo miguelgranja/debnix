@@ -24,6 +24,7 @@
       nixpkgs,
       home-manager,
       nixvim,
+      hyprland,
       # flake-parts,
       ...
     }:
